@@ -1,2 +1,5 @@
 # stream-media-checker
 流媒体可用性检测
+
+- [Linux x86 平台](https://raw.githubusercontent.com/deplives/stream-media-checker/main/netflix/netflix-linux)
+- [macOS 平台](https://raw.githubusercontent.com/deplives/stream-media-checker/main/netflix/netflix-macos)
